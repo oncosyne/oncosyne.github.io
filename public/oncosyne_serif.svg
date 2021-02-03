@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.918564mm"
+   height="7.0564466mm"
+   viewBox="0 0 36.918564 7.0564466"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="oncosyne_serif.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="/home/pawe/Documents/chaerea/communication/oncosyne_serif.png"
+   inkscape:export-xdpi="399.54953"
+   inkscape:export-ydpi="399.54953">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect7657"
+       is_visible="true"
+       pattern="#path7694"
+       copytype="repeated"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="1"
+       normal_offset="1"
+       tang_offset="1"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect7650"
+       is_visible="true"
+       pattern="M 0,0 H 1"
+       copytype="repeated_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <linearGradient
+       id="linearGradient3057"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#a8dadc;stop-opacity:1;"
+         offset="0"
+         id="stop3055" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7793"
+       inkscape:label="filter0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.2414535"
+     inkscape:cx="88.50237"
+     inkscape:cy="21.019039"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1461"
+     showgrid="false"
+     showguides="true"
+     fit-margin-top="1"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-27.991456,-8.9978062)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7828"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.5;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,27.519568,9.1767345)"><flowRegion
+         id="flowRegion7830"><rect
+           id="rect7832"
+           width="19.79899"
+           height="55.154327"
+           x="56.568542"
+           y="-15.710794" /></flowRegion><flowPara
+         id="flowPara7834" /></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0.5;font-family:'neue swift';-inkscape-font-specification:'neue swift';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="32.423225"
+       y="3.2550342"
+       id="text839"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="32.423225"
+         y="5.4130421"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g1461"
+       transform="translate(0,0.56230593)">
+      <g
+         style="fill:#a8dadc;fill-opacity:1"
+         transform="matrix(1.3449743,0,0,1.3449743,-33.367536,-4.1717384)"
+         id="g3206">
+        <g
+           style="fill:#a8dadc;fill-opacity:1"
+           transform="translate(10.176284)"
+           id="g3211">
+          <circle
+             r="1.5"
+             cy="11.92999"
+             cx="47.862568"
+             id="path3167"
+             style="opacity:1;vector-effect:none;fill:#f1faee;fill-opacity:1;fill-rule:nonzero;stroke:#1d3557;stroke-width:0.22305259;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="1"
+             cy="11.92999"
+             cx="47.862568"
+             id="path3167-1"
+             style="display:inline;opacity:1;vector-effect:none;fill:#1d3557;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.08355366;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="0.5"
+             cy="11.575257"
+             cx="48.234634"
+             id="path3167-1-2"
+             style="display:inline;opacity:1;vector-effect:none;fill:#f1faee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.04177683;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <text
+         id="text817-3"
+         y="13.711932"
+         x="28.202068"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:0.5;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d3557;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif Bold';fill:#1d3557;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="13.711932"
+           x="28.202068"
+           id="tspan815-1"
+           sodipodi:role="line">onc</tspan></text>
+      <text
+         id="text817-4"
+         y="13.711932"
+         x="64.730415"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:0.5;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#1d3557;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif Bold';text-align:end;text-anchor:end;fill:#1d3557;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="13.711932"
+           x="64.730415"
+           id="tspan815-9"
+           sodipodi:role="line">syne</tspan></text>
+    </g>
+  </g>
+</svg>
