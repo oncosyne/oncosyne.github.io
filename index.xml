@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oncosyne: precision in cancer medicine on Oncosyne: precision in cancer treatment</title>
-    <link>https://oncosyne.github.io/</link>
+    <link>https://oncosyne.no/</link>
     <description>Recent content in Oncosyne: precision in cancer medicine on Oncosyne: precision in cancer treatment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,7 +10,7 @@
     <webMaster>peter@oncosyne.no (PWE)</webMaster>
     <lastBuildDate>Sat, 22 Aug 1970 22:56:43 +0100</lastBuildDate>
     
-	<atom:link href="https://oncosyne.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oncosyne.no/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
