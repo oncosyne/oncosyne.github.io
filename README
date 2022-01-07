@@ -1,0 +1,20 @@
+
+
+## Favicon
+
+# For modern high resolution devices, Google recommends providing icons in 192x192 pixels.
+convert -background transparent -define icon:auto-resize=192 ../../logo/oncosyne-eye.svg favicon.ico
+
+## Oslo images
+
+https://oslobrandbox.no/?modaalpage=photogallery#all
+
+LICENSE
+
+# MOV
+
+* Purple animated pexel_gamol.mp4 was downloaded from 
+
+LICENSE: ✓ Free to use. ✓ No attribution required.
+
+https://www.pexels.com/@gamol-755060
