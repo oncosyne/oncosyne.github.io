@@ -13,16 +13,30 @@ body {
   background-color: black;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5 {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
 
+h6 {
+  font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 5px;
+  padding-top: 20px;
+  text-transform: uppercase;
+}
+
 p {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
+}
+
+/* table padding */
+
+th, td {
+  padding: 3px 3px;
 }
 
 @media (min-width: 768px) {
@@ -113,6 +127,13 @@ a:focus, a:hover {
   text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
 }
 
+.improve-contrast-box-padded {
+  background: rgba(0, 0, 0, .66);
+  border-radius: 5px;
+  text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
+  padding: 25px;
+}
+
 .btn-circle {
   font-size: 26px;
   width: 55px;
@@ -167,6 +188,7 @@ header p {
   font-size: 25px;
 }
 
+
 @media (max-height: 375px)  {
   p {
     font-size: 16px;
@@ -187,7 +209,35 @@ header p {
   width:auto;
 }
 
+/* Created by Alison Quaglia */
+
 .section-2 {
+  color: white;
+  background-color: black;
+  /* background: url("../img/section23-bg.jpg") no-repeat center center scroll; */
+  background: linear-gradient(-45deg, #1d3557ff, #457b9dff, #a8dadcff, #f1faeeff, #e63946ff);
+  background-size: 400% 400%;
+  animation: gradient 60s ease infinite;
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
+@keyframes gradient {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
+}
+
+
+
+
+.section-3 {
   color: white;
   background-color: black;
   background-size: cover;
@@ -308,3 +358,52 @@ ul.banner-social-buttons {
     margin-bottom: 0;
   }
 }
+
+
+/* Teams */
+
+ /* Three columns side by side */
+.column {
+  float: center;
+  width: 33%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+/* Display the columns below each other instead of side by side on small screens */
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+/* Add some shadows to create a card effect */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+  background: rgba(0, 0, 0, .66);
+  border-radius: 5px;
+  padding: 25px;
+}
+  
+
+/* Some left and right padding inside the container */
+.container {
+  padding: 0 15px;
+}
+
+/* Clear floats */
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: gray;
+}
+
+
+
+
