@@ -188,7 +188,6 @@ header p {
   font-size: 25px;
 }
 
-
 @media (max-height: 375px)  {
   p {
     font-size: 16px;
@@ -197,7 +196,6 @@ header p {
     font-size: 18px;
   }
 }
-
 
 .content-section {
   padding-top: 15vh;
@@ -217,7 +215,7 @@ header p {
   /* background: url("../img/section23-bg.jpg") no-repeat center center scroll; */
   background: linear-gradient(-45deg, #1d3557ff, #457b9dff, #a8dadcff, #f1faeeff, #e63946ff);
   background-size: 400% 400%;
-  animation: gradient 60s ease infinite;
+  animation: gradient 30s ease infinite;
   padding-top: 15vh;
   padding-bottom: 15vh;
 }
