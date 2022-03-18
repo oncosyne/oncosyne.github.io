@@ -213,9 +213,9 @@ header p {
   color: white;
   background-color: black;
   /* background: url("../img/section23-bg.jpg") no-repeat center center scroll; */
-  background: linear-gradient(-45deg, #1d3557ff, #457b9dff, #a8dadcff, #f1faeeff, #e63946ff);
+  background: linear-gradient(-45deg, #1d3557, #457b9d, #a8dadc, #f1faee, #e63946);
   background-size: 400% 400%;
-  animation: gradient 30s ease infinite;
+  animation: gradient 15s ease infinite;
   padding-top: 15vh;
   padding-bottom: 15vh;
 }
@@ -231,9 +231,6 @@ header p {
       background-position: 0% 50%;
   }
 }
-
-
-
 
 .section-3 {
   color: white;
@@ -357,7 +354,6 @@ ul.banner-social-buttons {
   }
 }
 
-
 /* Teams */
 
  /* Three columns side by side */
@@ -385,7 +381,6 @@ ul.banner-social-buttons {
   padding: 25px;
 }
   
-
 /* Some left and right padding inside the container */
 .container {
   padding: 0 15px;
