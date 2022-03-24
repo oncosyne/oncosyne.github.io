@@ -215,7 +215,7 @@ header p {
   /* background: url("../img/section23-bg.jpg") no-repeat center center scroll; */
   background: linear-gradient(-45deg, #1d3557, #457b9d, #a8dadc, #f1faee, #e63946);
   background-size: 300% 300%;
-  animation: gradient 15s ease infinite;
+  animation: gradient 30s ease infinite;
   padding-top: 15vh;
   padding-bottom: 15vh;
 }
