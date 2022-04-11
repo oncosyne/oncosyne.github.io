@@ -242,7 +242,7 @@ header p {
 
 .section-contact {
   color: white;
-  background: url("../img/vinter600.jpg") no-repeat center center scroll;
+  /* background: url("../img/vinter600.jpg") no-repeat center center scroll; */
   background-color: black;
   background-size: cover;
 }
