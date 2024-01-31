@@ -283,7 +283,7 @@ img::selection {
 /* Add content over the video */
 .content {
   position: absolute;
-  top: 33vh;
+  top: 40vh;
   left: 1%;
   width: 95%;
   color: white;
