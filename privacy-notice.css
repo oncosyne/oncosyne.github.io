@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: white;
+}
+a {
+  color: #6bf;
+}
+code {
+  background-color: #333;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+pre {
+  background-color: #333;
+  padding: 10px;
+  border-radius: 5px;
+}
